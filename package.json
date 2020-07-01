@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "lint": "eslint .",
+    "fix": "eslint --fix ."
+  },
+  "devDependencies": {
+    "eslint": "^7.3.1"
+  },
+  "dependencies": {
+    "pre-commit": "^1.2.2"
+  }
+}
